@@ -81,5 +81,3 @@ if prediction[0] == 0:
     st.markdown('<div class="prediction-box" style="color: Blue;">✅ This customer is likely to stay.</div>', unsafe_allow_html=True)
 else:
     st.markdown('<div class="prediction-box" style="color: Red;">⚠️ This customer is likely to churn.</div>', unsafe_allow_html=True)
-except as e:
-        st.error(f"Prediction Error: {e}")
