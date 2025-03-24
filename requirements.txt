@@ -1,10 +1,5 @@
-scikit-learn
-joblib==1.2.0
-streamlit run
-streamlit
-sklearn.ensemble
-RandomForestClassifier
-Preprocessing
-LableEncoder
-pandas
-numpy
+scikit-learn: 1.6.1
+joblib: 1.2.0
+streamlit: 1.43.2
+pandas: 2.0.3
+numpy: 1.26.4
