@@ -1,1 +1,10 @@
-
+scikit-learn
+joblib==1.2.0
+streamlit run
+streamlit
+sklearn.ensemble
+RandomForestClassifier
+Preprocessing
+LableEncoder
+pandas
+numpy
